@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben Snow!
-- 👀 I’m a physicist interested in Machine Learning and how it's deployed! [Check out my blog](https://bensnow6.github.io/posts/serverlessml/)
+- 👀 I’m a physicist interested in Machine Learning and how it's deployed! [Check out my blog](https://bensnow6.github.io/)
 - 🌱 I’m currently taking the [Full Stack Deep Learning](https://fullstackdeeplearning.com/) and [serverless-ml](https://www.serverless-ml.org/) courses!
 - 📫 How to reach me: ✉️E-mail: bensnows@gmail.com || 🐦[twitter](https://twitter.com/Snowbobadger) || 🌐[*Website*](https://bensnow6.github.io/) || 🧑‍💼[LinkedIn](https://www.linkedin.com/in/bensnow6/)
 
